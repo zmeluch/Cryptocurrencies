@@ -3,7 +3,7 @@
 ## Summary
 In this project, cryptocurrencies were evaluated for an investment bank. The data was first preprocessed using pandas.
 Then the Principal Component Analysis (PCA) algorithm was used to reduce the data to three principal components. Then
-an elbow curve to determine the best number of clusters to use. The nthe K-means algorithm was used to make predictions
+an elbow curve to determine the best number of clusters to use. Then the K-means algorithm was used to make predictions
 of which clusters the data would be group. The results were the visualized.
 
 ## Results
